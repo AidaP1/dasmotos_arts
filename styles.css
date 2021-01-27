@@ -24,14 +24,14 @@ strong {
     color: blue;
 }
 
-.greenbanner {
+.banner-1 {
     background-color: mediumspringgreen;
 }
 
-.redbanner {
+.banner-2 {
     background-color: lightcoral;
 }
 
-.bluebanner {
+.banner-3 {
     background-color: skyblue;
 }
